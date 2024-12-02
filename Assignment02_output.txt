@@ -1,0 +1,9 @@
+Part 1: 
+ Genaration: 8 
+ Fittest Chromosome: 010001100 
+ Fittness: 0 
+
+Part 2: 
+ Parent1: 001000110, Parent2: 011101110 
+ Crossover Points: 4, 8 
+ Offspring1: 001001110, Offspring2: 011100110
